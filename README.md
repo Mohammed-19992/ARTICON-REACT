@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/hjlogique/ARTICON-REACT?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/ARTICON-REACT?style=flat&logo=appveyor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Badge for GitHub repo top language]
   
 # ARTICON-REACT (Group Project 3)
 
@@ -81,11 +81,11 @@
 
   ## Questions
   
-  [Link to my GitHub profile](https://github.com/hjlogique)
+  [Link to my GitHub profile](https://github.com/Mohammed-19992)
 
   If you have any questions, please contact me via email:
   
-  Email: hjlogique@yahoo.com
+  Email: mohammed.salah.arafat@gmail.com
   
 
   ## License
